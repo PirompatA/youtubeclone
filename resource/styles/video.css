@@ -7,7 +7,6 @@
 }
 
 .video-preview{
-
   vertical-align: top;
 }
 
@@ -25,7 +24,7 @@
 }  
 
 .channel-picture{
-  background-color: grey;
+  background-color: white;
 }
 
 .profile-picture{
@@ -35,7 +34,7 @@
 }
 
 .video-info{
-  background-color: grey;
+  background-color: white;
 }
 
 .video-title{
