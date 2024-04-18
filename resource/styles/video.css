@@ -12,11 +12,26 @@
 
 .thumbnail-row{
   margin-bottom: 10px;
+  position: relative;
 }
 
 .thumbnail{
   width:100%;
 }  
+
+.video-time{
+  font-family: Roboto,Arial;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px 4px;
+  border-radius: 4px;
+  background-color: black;
+  color: white;
+
+  position:absolute;
+  bottom: 8px;
+  right: 5px;
+}
 
 .video-info-grid{
   display:grid;
